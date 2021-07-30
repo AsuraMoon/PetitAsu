@@ -1,0 +1,56 @@
+body {
+    padding-bottom: 3rem;
+    background-color: #dadada;
+
+  }
+
+*{
+  color: rgb(29, 29, 29)!important;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.round{
+    border-radius: 100%;
+    width: 25%;
+}
+
+#link{
+    max-width: 35px;
+    max-height: 35px;
+}
+
+.right{
+    text-align: right;
+}
+
+.badge {
+    font-size: 25px;
+    font-weight: 200
+}
+
+.badge i {
+    font-size: 20px;
+    font-weight: 200
+}
+
+.about-rating {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px
+}
+
+.total-ratings {
+    font-size: 12px
+}
+
+.bg-custom {
+    background-color: #b7dd29 !important
+}
+
+.progress {
+    margin-top: 10px
+}
