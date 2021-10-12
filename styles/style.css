@@ -12,6 +12,12 @@ body {
 .bg-perso{
     background-color: sandybrown;
 }
+.bg-persodark{
+    background-color: purple;
+}
+.bg-perso{
+    background-color: sandybrown;
+}
 
 img{
     border-radius: 20px;
